@@ -105,6 +105,12 @@ body {
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
+.active-tag{
+	background-color:#BEB45A !important ;
+}
+.nav-pills li {
+	cursor: pointer;
+}
 .nav-pills .nav-link {
 	color: #000
 }
